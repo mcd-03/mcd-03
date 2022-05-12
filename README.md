@@ -1,5 +1,5 @@
-- 👋 Hi, I’m Jon McDowell
-- 👀 I’m interested in writing beautiful code.
+- Hi, I’m Jon McDowell
+- I’m interested in writing beautiful code.
 
 
 <!---
